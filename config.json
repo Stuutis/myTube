@@ -1,0 +1,83 @@
+{
+  "name":"Stutis",
+  " ":"Front-end Dev",
+  "github":"Stuutis",
+  "playlists":{
+    "games":[
+      {
+        "title":"GOD OF WAR RAGNAROK - O Início de Gameplay no PS5, em Português PT-BR!",
+        "url":"https://www.youtube.com/watch?v=6fNUO23I_BA&ab_channel=BRKsEDU",
+        "thumb":"https://i.ytimg.com/vi/6fNUO23I_BA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDL_2YMl2aZdtrsNANmfBYucJzcVw"
+      }, 
+      {
+        "title":"GOD OF WAR RAGNAROK - O Início de Gameplay no PS5, em Português PT-BR!",
+        "url":"https://www.youtube.com/watch?v=6fNUO23I_BA&ab_channel=BRKsEDU",
+        "thumb":"https://i.ytimg.com/vi/6fNUO23I_BA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDL_2YMl2aZdtrsNANmfBYucJzcVw"
+      },
+      {
+        "title":"GOD OF WAR RAGNAROK - O Início de Gameplay no PS5, em Português PT-BR!" ,
+        "url":"https://www.youtube.com/watch?v=6fNUO23I_BA&ab_channel=BRKsEDU",
+        "thumb":"https://i.ytimg.com/vi/6fNUO23I_BA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDL_2YMl2aZdtrsNANmfBYucJzcVw"
+      },
+      {
+        "title":"GOD OF WAR RAGNAROK - O Início de Gameplay no PS5, em Português PT-BR!" ,
+        "url":"https://www.youtube.com/watch?v=6fNUO23I_BA&ab_channel=BRKsEDU",
+        "thumb":"https://i.ytimg.com/vi/6fNUO23I_BA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDL_2YMl2aZdtrsNANmfBYucJzcVw"
+      },
+      {
+        "title":"GOD OF WAR RAGNAROK - O Início de Gameplay no PS5, em Português PT-BR!" ,
+        "url":"https://www.youtube.com/watch?v=6fNUO23I_BA&ab_channel=BRKsEDU",
+        "thumb":"https://i.ytimg.com/vi/6fNUO23I_BA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDL_2YMl2aZdtrsNANmfBYucJzcVw"
+      },
+      {
+        "title":"GOD OF WAR RAGNAROK - O Início de Gameplay no PS5, em Português PT-BR!" ,
+        "url":"https://www.youtube.com/watch?v=6fNUO23I_BA&ab_channel=BRKsEDU",
+        "thumb":"https://i.ytimg.com/vi/6fNUO23I_BA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDL_2YMl2aZdtrsNANmfBYucJzcVw"
+      },
+      {
+        "title":"GOD OF WAR RAGNAROK - O Início de Gameplay no PS5, em Português PT-BR!" ,
+        "url":"https://www.youtube.com/watch?v=6fNUO23I_BA&ab_channel=BRKsEDU",
+        "thumb":"https://i.ytimg.com/vi/6fNUO23I_BA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDL_2YMl2aZdtrsNANmfBYucJzcVw"
+      }
+
+    ],
+    "front-end":[
+      {
+        "title":"Jogo da memoria com JavaScript | Parte 1: Login | Criando jogo com JavaScript, HTML e CSS",
+        "url":"https://www.youtube.com/watch?v=NV88N1r2Qkg&ab_channel=ManualdoDev",
+        "thumb":"https://i.ytimg.com/vi/U5dVemhy1yk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB8xkSJC89Wrkpei02h5yio4ZuifA"
+      },
+      {
+        "title":"Jogo da memoria com JavaScript | Parte 1: Login | Criando jogo com JavaScript, HTML e CSS" ,
+        "url":"https://www.youtube.com/watch?v=NV88N1r2Qkg&ab_channel=ManualdoDev",
+        "thumb":"https://i.ytimg.com/vi/U5dVemhy1yk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB8xkSJC89Wrkpei02h5yio4ZuifA"
+      },
+      {
+        "title":"Jogo da memoria com JavaScript | Parte 1: Login | Criando jogo com JavaScript, HTML e CSS" ,
+        "url":"https://www.youtube.com/watch?v=NV88N1r2Qkg&ab_channel=ManualdoDev",
+        "thumb":"https://i.ytimg.com/vi/U5dVemhy1yk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB8xkSJC89Wrkpei02h5yio4ZuifA"
+      },
+      {
+        "title":"Jogo da memoria com JavaScript | Parte 1: Login | Criando jogo com JavaScript, HTML e CSS" ,
+        "url":"https://www.youtube.com/watch?v=NV88N1r2Qkg&ab_channel=ManualdoDev",
+        "thumb":"https://i.ytimg.com/vi/U5dVemhy1yk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB8xkSJC89Wrkpei02h5yio4ZuifA"
+      },
+      {
+        "title":"Jogo da memoria com JavaScript | Parte 1: Login | Criando jogo com JavaScript, HTML e CSS" ,
+        "url":"https://www.youtube.com/watch?v=NV88N1r2Qkg&ab_channel=ManualdoDev",
+        "thumb":"https://i.ytimg.com/vi/U5dVemhy1yk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB8xkSJC89Wrkpei02h5yio4ZuifA"
+      },
+      {
+        "title":"Jogo da memoria com JavaScript | Parte 1: Login | Criando jogo com JavaScript, HTML e CSS" ,
+        "url":"https://www.youtube.com/watch?v=NV88N1r2Qkg&ab_channel=ManualdoDev",
+        "thumb":"https://i.ytimg.com/vi/U5dVemhy1yk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB8xkSJC89Wrkpei02h5yio4ZuifA"
+      },
+      {
+        "title":"Jogo da memoria com JavaScript | Parte 1: Login | Criando jogo com JavaScript, HTML e CSS" ,
+        "url":"https://www.youtube.com/watch?v=NV88N1r2Qkg&ab_channel=ManualdoDev",
+        "thumb":"https://i.ytimg.com/vi/U5dVemhy1yk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB8xkSJC89Wrkpei02h5yio4ZuifA"
+      }
+
+    ]
+  }
+}
