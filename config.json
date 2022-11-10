@@ -1,81 +1,94 @@
 {
-  "name":"Stutis",
-  " ":"Front-end Dev",
+  "name":"Stuutis",
+  "description":"Front-end Dev",
+  "bg":"https://images.unsplash.com/photo-1614285457768-646f65ca8548?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
   "github":"Stuutis",
+
+  
+  "favoriteTubes":[
+    {
+      "image":"https://avatars.githubusercontent.com/u/85755177?v=4",
+      "name":"@Stutis"
+    },
+    {
+      "image":"https://cdn.pixabay.com/photo/2020/01/01/09/46/nine-4733225_1280.png",
+      "name":"@Nine"
+    }
+  ],
   "playlists":{
-    "games":[
+    "Games":[
       {
-        "title":"GOD OF WAR RAGNAROK - O Início de Gameplay no PS5, em Português PT-BR!",
-        "url":"https://www.youtube.com/watch?v=6fNUO23I_BA&ab_channel=BRKsEDU",
-        "thumb":"https://i.ytimg.com/vi/6fNUO23I_BA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDL_2YMl2aZdtrsNANmfBYucJzcVw"
+        "title":"DRX x LOUD (Mapa 1: Breeze) | VALORANT Champions Istanbul",
+        "url":"https://www.youtube.com/watch?v=6Gn3oaY4KM0&ab_channel=VALORANTEsportsBR",
+        "thumb":"https://i.ytimg.com/an_webp/6Gn3oaY4KM0/mqdefault_6s.webp?du=3000&sqp=CKqbtJsG&rs=AOn4CLBh_Vw_vJseh4maCPv0rQ-_9ocDhg"
       }, 
       {
-        "title":"GOD OF WAR RAGNAROK - O Início de Gameplay no PS5, em Português PT-BR!",
-        "url":"https://www.youtube.com/watch?v=6fNUO23I_BA&ab_channel=BRKsEDU",
-        "thumb":"https://i.ytimg.com/vi/6fNUO23I_BA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDL_2YMl2aZdtrsNANmfBYucJzcVw"
+        "title":"LOUD x Leviatán (Mapa 1: Icebox) | VALORANT Champions Istanbul",
+        "url":"https://www.youtube.com/watch?v=wjrVfqHK4KU",
+        "thumb":"https://i.ytimg.com/an_webp/wjrVfqHK4KU/mqdefault_6s.webp?du=3000&sqp=CPOgtJsG&rs=AOn4CLBdn8w19wQTUgJOYvIQ9508LDKMPQ"
       },
       {
-        "title":"GOD OF WAR RAGNAROK - O Início de Gameplay no PS5, em Português PT-BR!" ,
-        "url":"https://www.youtube.com/watch?v=6fNUO23I_BA&ab_channel=BRKsEDU",
-        "thumb":"https://i.ytimg.com/vi/6fNUO23I_BA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDL_2YMl2aZdtrsNANmfBYucJzcVw"
+        "title":"LOUD x OpTic Gaming (Mapa 1: Ascent) | VALORANT Champions Istanbul" ,
+        "url":"https://www.youtube.com/watch?v=XIoJZlRUDJg",
+        "thumb":"https://i.ytimg.com/an_webp/XIoJZlRUDJg/mqdefault_6s.webp?du=3000&sqp=CICGtJsG&rs=AOn4CLAjJBHPyJMMhgBKgg_l0tvn1ZC7fg"
       },
       {
-        "title":"GOD OF WAR RAGNAROK - O Início de Gameplay no PS5, em Português PT-BR!" ,
-        "url":"https://www.youtube.com/watch?v=6fNUO23I_BA&ab_channel=BRKsEDU",
-        "thumb":"https://i.ytimg.com/vi/6fNUO23I_BA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDL_2YMl2aZdtrsNANmfBYucJzcVw"
+        "title":"LOUD x OpTic Gaming (Mapa 3: Breeze) | VALORANT Champions Istanbul" ,
+        "url":"https://www.youtube.com/watch?v=AGoLjGM8VQ4",
+        "thumb":"https://i.ytimg.com/an_webp/tzxCeELCqhU/mqdefault_6s.webp?du=3000&sqp=COaatJsG&rs=AOn4CLA3V-xPvUtsZJnGZVmHKR3X5uz_kQ"
       },
       {
-        "title":"GOD OF WAR RAGNAROK - O Início de Gameplay no PS5, em Português PT-BR!" ,
+        "title":"DRX x LOUD (Mapa 2: Haven) | VALORANT Champions Istanbul" ,
         "url":"https://www.youtube.com/watch?v=6fNUO23I_BA&ab_channel=BRKsEDU",
-        "thumb":"https://i.ytimg.com/vi/6fNUO23I_BA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDL_2YMl2aZdtrsNANmfBYucJzcVw"
+        "thumb":"https://i.ytimg.com/an_webp/AGoLjGM8VQ4/mqdefault_6s.webp?du=3000&sqp=CIiGtJsG&rs=AOn4CLAtFe1GfkWuE6Gg6xwg5mfCAHWBjg"
       },
       {
-        "title":"GOD OF WAR RAGNAROK - O Início de Gameplay no PS5, em Português PT-BR!" ,
-        "url":"https://www.youtube.com/watch?v=6fNUO23I_BA&ab_channel=BRKsEDU",
-        "thumb":"https://i.ytimg.com/vi/6fNUO23I_BA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDL_2YMl2aZdtrsNANmfBYucJzcVw"
+        "title":"FNATIC x FURIA (Mapa 3: Haven) | VALORANT Champions Istanbul" ,
+        "url":"https://www.youtube.com/watch?v=kFxH8-uAWi4",
+        "thumb":"https://i.ytimg.com/an_webp/fijnGosR5u8/mqdefault_6s.webp?du=3000&sqp=COestJsG&rs=AOn4CLAIM1u5OfD2mAMf-WNomJ9eKkZNoQ"
       },
       {
-        "title":"GOD OF WAR RAGNAROK - O Início de Gameplay no PS5, em Português PT-BR!" ,
-        "url":"https://www.youtube.com/watch?v=6fNUO23I_BA&ab_channel=BRKsEDU",
-        "thumb":"https://i.ytimg.com/vi/6fNUO23I_BA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDL_2YMl2aZdtrsNANmfBYucJzcVw"
+        "title":"LOUD x OpTic Gaming (Mapa 1: Breeze) | VALORANT Champions Istanbul" ,
+        "url":"https://www.youtube.com/watch?v=x04B1jpflvo",
+        "thumb":"https://i.ytimg.com/an_webp/x04B1jpflvo/mqdefault_6s.webp?du=3000&sqp=CKCStJsG&rs=AOn4CLBdUVhEZaJg5bVDc4tCYRm_8QjHZg"
       }
 
     ],
-    "front-end":[
+    "Musicas":[
       {
-        "title":"Jogo da memoria com JavaScript | Parte 1: Login | Criando jogo com JavaScript, HTML e CSS",
-        "url":"https://www.youtube.com/watch?v=NV88N1r2Qkg&ab_channel=ManualdoDev",
-        "thumb":"https://i.ytimg.com/vi/U5dVemhy1yk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB8xkSJC89Wrkpei02h5yio4ZuifA"
+        "title":"Duzz - ASAS (beat. Kouth) (Official Music Video)",
+        "url":"https://www.youtube.com/watch?v=9lKgjxhh4nc&list=RD9lKgjxhh4nc&start_radio=1&ab_channel=duzz",
+        "thumb":"https://i.ytimg.com/vi/9lKgjxhh4nc/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBqAiAAtAFigIMCAAQARhlIFkoUDAP&rs=AOn4CLBGZnvh_RcQA9WVBV44C2sYeBeLXg"
       },
       {
-        "title":"Jogo da memoria com JavaScript | Parte 1: Login | Criando jogo com JavaScript, HTML e CSS" ,
-        "url":"https://www.youtube.com/watch?v=NV88N1r2Qkg&ab_channel=ManualdoDev",
-        "thumb":"https://i.ytimg.com/vi/U5dVemhy1yk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB8xkSJC89Wrkpei02h5yio4ZuifA"
+        "title":"26. Duzz - ILUMINADO (prod. peunubeat)" ,
+        "url":"https://www.youtube.com/watch?v=PMywGFSOH-U&ab_channel=duzz",
+        "thumb":"https://i.ytimg.com/vi/PMywGFSOH-U/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1AaAAuADigIMCAAQARhyIFcoNjAP&rs=AOn4CLDoGtN6FnUiXzc0A_94kCumIBUvwg"
       },
       {
-        "title":"Jogo da memoria com JavaScript | Parte 1: Login | Criando jogo com JavaScript, HTML e CSS" ,
-        "url":"https://www.youtube.com/watch?v=NV88N1r2Qkg&ab_channel=ManualdoDev",
-        "thumb":"https://i.ytimg.com/vi/U5dVemhy1yk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB8xkSJC89Wrkpei02h5yio4ZuifA"
+        "title":"29. Duzz - Olhos (prod. Jd On Tha Track)" ,
+        "url":"https://www.youtube.com/watch?v=1WIr22BOSmI",
+        "thumb":"https://i.ytimg.com/vi/1WIr22BOSmI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB8s9APo3jzeig66UdBYfOPzkIIJw"
       },
       {
-        "title":"Jogo da memoria com JavaScript | Parte 1: Login | Criando jogo com JavaScript, HTML e CSS" ,
-        "url":"https://www.youtube.com/watch?v=NV88N1r2Qkg&ab_channel=ManualdoDev",
-        "thumb":"https://i.ytimg.com/vi/U5dVemhy1yk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB8xkSJC89Wrkpei02h5yio4ZuifA"
+        "title":"27. Duzz - VENEZA feat DaLua & Froid (prod. Mathinvoker & D Santana)" ,
+        "url":"https://www.youtube.com/watch?v=7Y5kcUCcTV0",
+        "thumb":"https://i.ytimg.com/vi/7Y5kcUCcTV0/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1AaAAuADigIMCAAQARh_ID8oEzAP&rs=AOn4CLCQW9fE_K2Kfvn0NnEDrByCYZPacA"
       },
       {
-        "title":"Jogo da memoria com JavaScript | Parte 1: Login | Criando jogo com JavaScript, HTML e CSS" ,
-        "url":"https://www.youtube.com/watch?v=NV88N1r2Qkg&ab_channel=ManualdoDev",
-        "thumb":"https://i.ytimg.com/vi/U5dVemhy1yk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB8xkSJC89Wrkpei02h5yio4ZuifA"
+        "title":"24. Duzz - Lâmpadas feat Samantha Machado (prod. Ecologyk)" ,
+        "url":"https://www.youtube.com/watch?v=lyHkvrJ3szY",
+        "thumb":"https://i.ytimg.com/vi/lyHkvrJ3szY/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1AaAAuADigIMCAAQARhlIFAoQzAP&rs=AOn4CLAO1WJyDB3oFN4qJn3ci6LlX3fzZw"
       },
       {
-        "title":"Jogo da memoria com JavaScript | Parte 1: Login | Criando jogo com JavaScript, HTML e CSS" ,
-        "url":"https://www.youtube.com/watch?v=NV88N1r2Qkg&ab_channel=ManualdoDev",
-        "thumb":"https://i.ytimg.com/vi/U5dVemhy1yk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB8xkSJC89Wrkpei02h5yio4ZuifA"
+        "title":"11. Duzz - Mafioso feat Leal & Yung Buda (prod. LR Beats)" ,
+        "url":"https://www.youtube.com/watch?v=uEOXP9jCId4",
+        "thumb":"https://i.ytimg.com/vi/uEOXP9jCId4/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1AaAAuADigIMCAAQARhlIFkoVTAP&rs=AOn4CLBsanjCu52jOXDQJKq8MUVwytU9aw"
       },
       {
-        "title":"Jogo da memoria com JavaScript | Parte 1: Login | Criando jogo com JavaScript, HTML e CSS" ,
-        "url":"https://www.youtube.com/watch?v=NV88N1r2Qkg&ab_channel=ManualdoDev",
-        "thumb":"https://i.ytimg.com/vi/U5dVemhy1yk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB8xkSJC89Wrkpei02h5yio4ZuifA"
+        "title":"31. Duzz - Bons Lençóis (prod. LR Beats)" ,
+        "url":"https://www.youtube.com/watch?v=q0XQkItRV-k",
+        "thumb":"https://i.ytimg.com/vi/q0XQkItRV-k/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1AaAAuADigIMCAAQARh_IEcoFDAP&rs=AOn4CLAMVUOuK2KZyE_SqAW03AjasJsDbg"
       }
 
     ]

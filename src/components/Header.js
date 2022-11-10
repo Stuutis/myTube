@@ -13,16 +13,14 @@ const StyledHeader = styled.div`
     width: 100%;
     padding: 16px 32px;
     gap: 16px;
-    margin-top: 50px;
+    
   }
 `;
 
 function Header() {
-  console.log(config.playlists);
   return (
     <StyledHeader>
       <section className="user-info">
-        <img src="" alt="banner" />
         <img
           src={`https://github.com/${config.github}.png`}
           alt="profile-name"
