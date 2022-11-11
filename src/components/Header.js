@@ -1,7 +1,9 @@
+import { ThemeProvider } from 'styled-components';
 import config from '../../config.json';
 import styled from 'styled-components';
 
 const StyledHeader = styled.div`
+  background-color: ${({ theme }) => theme.backgroundLevel1};
   img {
     width: 80px;
     height: 80px;
@@ -13,7 +15,6 @@ const StyledHeader = styled.div`
     width: 100%;
     padding: 16px 32px;
     gap: 16px;
-    
   }
 `;
 
