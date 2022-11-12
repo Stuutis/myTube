@@ -9,11 +9,13 @@ const StyledSearch = styled.div`
   width: 100%;
   border-radius: 2px;
   overflow: hidden;
+  border-radius: 20px;
 
   input {
     width: 80%;
     padding: 4px 6px;
     border: none;
+
     outline: none;
     color: ${({ theme }) => theme.textColorBase};
     background-color: ${({ theme }) => theme.backgroundBase};

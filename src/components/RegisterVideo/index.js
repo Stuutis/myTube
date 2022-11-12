@@ -1,6 +1,7 @@
 import React from 'react';
 import { createClient } from '@supabase/supabase-js';
 import { StyledRegisterVideo } from './styles';
+import videoServices from '../../services/videoService';
 
 function getThumbnail(url) {
   const thumb = `${url.split('v=')[1]}`;
@@ -31,7 +32,7 @@ const PUBLIC_KEY =
 const supabase = createClient(PROJECT_URL, PUBLIC_KEY);
 
 export default function RegisterVideo() {
-  const formCadastro = useForm({ titulo: '', url: '' });
+  const formCadastro = useForm({ titulo: '', url: '', playlist: '' });
   const [formVisivel, setFormVisivel] = React.useState(false);
 
   return (
@@ -56,7 +57,7 @@ export default function RegisterVideo() {
                 title: formCadastro.values.titulo,
                 url: formCadastro.values.url,
                 thumb: getThumbnail(formCadastro.values.url),
-                playlist: 'Musicas',
+                playlist: formCadastro.values.playlist,
               })
               .then((response) => {
                 console.log(response);
@@ -67,6 +68,7 @@ export default function RegisterVideo() {
 
             setFormVisivel(false);
             formCadastro.clearForm();
+
             //chamar um estado que att a playlist
           }}
         >
@@ -94,7 +96,33 @@ export default function RegisterVideo() {
               value={formCadastro.values.url}
               onChange={formCadastro.handleChange}
             />
+
+            <select
+              required
+              className="select"
+              name="playlist"
+              onChange={formCadastro.handleChange}
+            >
+              <option value="" disabled selected>
+                Selecione uma playlist
+              </option>
+              <option value="videos">Videos</option>
+              <option value="musicas">Musicas</option>
+              <option value="jogos">Jogos</option>
+              <option value="front">Front-end</option>
+              <option value="back">Back-end</option>
+            </select>
+
             <button type="submit">Cadastrar</button>
+
+            <img
+              className="thumbPreview"
+              src={
+                formCadastro.values.url
+                  ? getThumbnail(formCadastro.values.url)
+                  : false
+              }
+            />
           </div>
         </form>
       ) : (

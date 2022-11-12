@@ -14,9 +14,9 @@ function HomePage() {
 
   React.useEffect(() => {
     service.getAllVideos().then((data) => {
-      console.log(data.data);
       const novasPlaylists = { ...playlists };
       data.data.forEach((video) => {
+        console.log(novasPlaylists);
         if (!novasPlaylists[video.playlist]) {
           novasPlaylists[video.playlist] = [];
         }
